@@ -1,9 +1,9 @@
-4th International Workshop on Quantum Resource Estimation (QRE 2022)
+5th International Workshop on Quantum Resource Estimation (QRE 2023)
 https://www.quantumresource.org/
 
-June 18, 2022 - New York, USA
+June 17, 2023 - Orlando, USA
 
-co-located with International Symposium on Computer Architecture (ISCA) 2022
+co-located with International Symposium on Computer Architecture (ISCA) 2023
 
 ==================--= Call for Papers =--==========================
 
@@ -29,7 +29,7 @@ Research papers, tutorials, software and other demonstrations, and work-in-progr
 
 ===== Paper submission =====
 
-Initial submission for QRE2022 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
+Initial submission for QRE2023 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
 
 Upon acceptance, researchers are invited to submit full research papers to IEEE Transactions on Quantum Engineering.
 
@@ -37,6 +37,6 @@ https://easychair.org/conferences/?conf=qre2021
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 1 May 2022
-Notification Extended Abstract: 15 May 2022
-Workshop Date: 18 June 2022
+Extended Abstract Submission: 1 May 2023
+Notification Extended Abstract: 15 May 2023
+Workshop Date: 17 June 2023
